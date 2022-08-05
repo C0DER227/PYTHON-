@@ -1,0 +1,2 @@
+name="mukesh"
+print(name)
