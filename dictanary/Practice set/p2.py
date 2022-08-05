@@ -1,0 +1,10 @@
+N1=int(input("Enter number no.1: "))            #EMPTY SET: S = Set()
+N2=int(input("Enter number no.2: "))
+N3=int(input("Enter number no.3: "))
+N4=int(input("Enter number no.4: "))
+N5=int(input("Enter number no.5: "))
+N6=int(input("Enter number no.6: "))
+N7=int(input("Enter number no.7: "))
+N8=int(input("Enter number no.8: "))
+N={N1,N2,N3,N4,N5,N6,N7,N8}
+print(N)
